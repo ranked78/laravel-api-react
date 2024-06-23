@@ -29,7 +29,11 @@ const setUser = (user) => {
 
 	// csrf token generation for guest methods
 const csrfToken = async () => {
-	await axios.get('http://localhost:8000/sanctum/csrf-cookie');
+	try {
+		await axios.get('http://localhost:8000/sanctum/csrf-cookie');
+	} catch (error) {
+		console.error(error);
+	}
 	return true;
 	};
 
