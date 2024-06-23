@@ -45,14 +45,14 @@ export default function DefaultLayout() {
 		<>
 			<nav className="bg-white border-gray-200 px-2 sm:px-4 py-2.5 dark:bg-gray-900">
 				<div className="container flex flex-wrap items-center justify-between mx-auto">
-					<a href="https://dcodemania.com/" className="flex items-center">
+					<a href="#" className="flex items-center">
 						<img
-							src="https://dcodemania.com/img/logo.svg"
+							src="https://scontent.fcrk4-1.fna.fbcdn.net/v/t39.30808-6/442482982_469756109056546_8320953610676714370_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=e7XyBiTk1AgQ7kNvgGVCCql&_nc_ht=scontent.fcrk4-1.fna&oh=00_AYCawO_K02EeF30YqqRrGqD4w9ySMlSFtK4JOsxc7Z2U1g&oe=667E183C"
 							className="h-6 mr-3 sm:h-9"
-							alt="DCodeMania Logo"
+							alt="Chouked Logo"
 						/>
 						<span className="self-center text-xl font-semibold whitespace-nowrap dark:text-white">
-							DCodeMania
+							Chouked
 						</span>
 					</a>
 					<button

@@ -37,10 +37,10 @@ export default function Login() {
 					className="flex items-center mb-6 text-2xl font-semibold text-gray-900 dark:text-white">
 					<img
 						className="w-8 h-8 mr-2"
-						src="https://dcodemania.com/img/logo.svg"
+						src="https://scontent.fcrk4-1.fna.fbcdn.net/v/t39.30808-6/442482982_469756109056546_8320953610676714370_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=e7XyBiTk1AgQ7kNvgGVCCql&_nc_ht=scontent.fcrk4-1.fna&oh=00_AYCawO_K02EeF30YqqRrGqD4w9ySMlSFtK4JOsxc7Z2U1g&oe=667E183C"
 						alt="logo"
 					/>
-					DCodeMania
+					Chouked
 				</a>
 				<div className="w-full bg-white rounded-lg shadow dark:border md:mt-0 sm:max-w-md xl:p-0 dark:bg-gray-800 dark:border-gray-700">
 					<div className="p-6 space-y-4 md:space-y-6 sm:p-8">
